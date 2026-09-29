@@ -45,6 +45,10 @@ Maintained by the independent audio research lab at **[Songmo](https://songmoai.
 - **[AI Wedding Song Generator (Custom First Dance & Vows)](https://songmoai.com/ai-wedding-song-generator)**
 - **[AI Song Maker (One-Sentence Generative Music Guide)](https://songmoai.com/ai-song-maker)**
 - **[AI Parody Song Generator (Comedy & Roast Song Formulas)](https://songmoai.com/ai-parody-song-generator)**
+- **[AI TikTok Song Generator (15-30s Viral Audio & Hooks)](https://songmoai.com/ai-tiktok-song-generator)**
+- **[Phonk Generator (Memphis Drift & Brazilian Phonk)](https://songmoai.com/phonk-generator)**
+- **[Synthwave Generator (Retrowave & Cyberpunk Outrun)](https://songmoai.com/synthwave-generator)**
+- **[AI Background Music Generator (Royalty-Free YouTube & Twitch)](https://songmoai.com/ai-background-music-generator)**
 - **[Song Prompt Builder & Interactive Generator](https://songmoai.com/tools/song-prompt-generator)**
 
 ---
