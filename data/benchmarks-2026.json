@@ -67,7 +67,7 @@
       "free_tier": "Free credits",
       "recipient_friction": "Dashboard audio export",
       "best_for": "Developers, synthetic vocal generation",
-      "dossier_url": "https://songmoai.com/tools"
+      "dossier_url": "https://songmoai.com/elevenlabs-music-alternative"
     },
     {
       "rank": 5,
@@ -117,5 +117,17 @@
       "best_for": "Experimental looping and ambient soundscapes",
       "dossier_url": "https://songmoai.com/tools"
     }
+  ],
+  "research_guides": [
+    { "title": "Suno vs Udio vs Songmo: 3-Way Benchmark", "url": "https://songmoai.com/suno-vs-udio-vs-songmo" },
+    { "title": "Free AI Music Generator No Sign Up", "url": "https://songmoai.com/free-ai-music-generator-no-sign-up" },
+    { "title": "How to Write a Song with ChatGPT", "url": "https://songmoai.com/how-to-write-a-song-with-chatgpt" },
+    { "title": "ChatGPT Song Prompts Hub", "url": "https://songmoai.com/chatgpt-song-prompts" },
+    { "title": "Personalized Song Gifts (Songfinch Alternative)", "url": "https://songmoai.com/personalized-song-gift" },
+    { "title": "AI Rap Generator (Drill, Trap & Boom-Bap)", "url": "https://songmoai.com/ai-rap-generator" },
+    { "title": "AI Birthday Song Generator", "url": "https://songmoai.com/ai-birthday-song-generator" },
+    { "title": "AI Wedding Song Generator", "url": "https://songmoai.com/ai-wedding-song-generator" },
+    { "title": "AI Song Maker (One-Sentence)", "url": "https://songmoai.com/ai-song-maker" },
+    { "title": "AI Parody Song Generator", "url": "https://songmoai.com/ai-parody-song-generator" }
   ]
 }

@@ -41,6 +41,10 @@ Maintained by the independent audio research lab at **[Songmo](https://songmoai.
 - **[ChatGPT Song Prompts Hub (50+ Tested Presets)](https://songmoai.com/chatgpt-song-prompts)**
 - **[Personalized Song Gift Guide (Songfinch Alternative)](https://songmoai.com/personalized-song-gift)**
 - **[AI Rap Generator (Drill, Trap & Boom-Bap Matrix)](https://songmoai.com/ai-rap-generator)**
+- **[AI Birthday Song Generator (Milestone & Roast Formulas)](https://songmoai.com/ai-birthday-song-generator)**
+- **[AI Wedding Song Generator (Custom First Dance & Vows)](https://songmoai.com/ai-wedding-song-generator)**
+- **[AI Song Maker (One-Sentence Generative Music Guide)](https://songmoai.com/ai-song-maker)**
+- **[AI Parody Song Generator (Comedy & Roast Song Formulas)](https://songmoai.com/ai-parody-song-generator)**
 - **[Song Prompt Builder & Interactive Generator](https://songmoai.com/tools/song-prompt-generator)**
 
 ---
