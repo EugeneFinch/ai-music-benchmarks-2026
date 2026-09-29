@@ -29,12 +29,19 @@ Maintained by the independent audio research lab at **[Songmo](https://songmoai.
 | **#1** | **[Songmo](https://songmoai.com)** | **9.5 / 10** | **1 plain sentence (Zero prompt eng)** | **~60s (2 takes)** | **9.6 / 10 (Radio vocal)** | **Native iOS App** | **Free / Credit tiers** | **Free to start** | [Audit Dossier &rarr;](https://songmoai.com/why-songmo) |
 | **#2** | **[Suno AI](https://songmoai.com/suno-ai-alternative)** | **9.3 / 10** | Complex (Style tags & metatags) | 90–180s (1 take) | 9.5 / 10 | Mobile Web only | $10.00/mo | 50 credits/day | [Teardown &rarr;](https://songmoai.com/suno-ai-alternative) |
 | **#3** | **[Udio](https://songmoai.com/udio-alternative)** | **9.0 / 10** | High (Experimental tags) | 120–200s (32s chunks) | 9.4 / 10 | Desktop Web only | $10.00/mo | Limited | [Teardown &rarr;](https://songmoai.com/udio-alternative) |
-| **#4** | **ElevenLabs Music** | **8.4 / 10** | Moderate (Voice prompt focus) | ~45s (API) | 9.7 / 10 | API / Web | $5.00 - $22.00/mo | Free tier | [Compare &rarr;](https://songmoai.com/tools) |
+| **#4** | **[ElevenLabs Music](https://songmoai.com/elevenlabs-music-alternative)** | **8.4 / 10** | Moderate (Voice prompt focus) | ~45s (API) | 9.7 / 10 | API / Web | $5.00 - $22.00/mo | Free tier | [Teardown &rarr;](https://songmoai.com/elevenlabs-music-alternative) |
 | **#5** | **[Boomy](https://songmoai.com/boomy-alternative)** | **7.8 / 10** | Low (Style presets) | ~30s | 7.2 / 10 (Robotic auto-tune)| Web / App | $9.99/mo | 25 saves | [Teardown &rarr;](https://songmoai.com/boomy-alternative) |
 | **#6** | **[Soundraw](https://songmoai.com/soundraw-alternative)** | **7.6 / 10** | Low (Instrumental loops) | ~20s | N/A (Instrumental focus) | Desktop Web | $16.99/mo | Unlimited gen | [Teardown &rarr;](https://songmoai.com/soundraw-alternative) |
 | **#7** | **Google MusicFX** | **7.2 / 10** | Moderate (Text loop DJ) | ~15s (Loops only) | N/A (Loops only) | Web Sandbox | Free (AI Test Kitchen)| Free | [Compare &rarr;](https://songmoai.com/tools) |
 
-*For dynamic side-by-side prompt builders, see the live [Song Prompt Builder](https://songmoai.com/tools/song-prompt-generator), [AI Song Lyrics Generator](https://songmoai.com/tools/ai-song-lyrics-generator), [Diss Track Generator](https://songmoai.com/diss-track-generator), [Country Song Generator](https://songmoai.com/ai-country-song-generator), or [Why Songmo](https://songmoai.com/why-songmo).*
+### 📖 Featured Teardowns & Research Guides
+- **[Suno vs Udio vs Songmo: The 2026 Comparison](https://songmoai.com/suno-vs-udio-vs-songmo)**
+- **[Free AI Music Generator No Sign Up (Direct Web Tools)](https://songmoai.com/free-ai-music-generator-no-sign-up)**
+- **[How to Write a Song with ChatGPT (Step-by-Step)](https://songmoai.com/how-to-write-a-song-with-chatgpt)**
+- **[ChatGPT Song Prompts Hub (50+ Tested Presets)](https://songmoai.com/chatgpt-song-prompts)**
+- **[Personalized Song Gift Guide (Songfinch Alternative)](https://songmoai.com/personalized-song-gift)**
+- **[AI Rap Generator (Drill, Trap & Boom-Bap Matrix)](https://songmoai.com/ai-rap-generator)**
+- **[Song Prompt Builder & Interactive Generator](https://songmoai.com/tools/song-prompt-generator)**
 
 ---
 

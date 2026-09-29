@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this benchmark dataset or evaluate AI music generators, please cite it as below."
+authors:
+  - family-names: "Finch"
+    given-names: "Eugene"
+    affiliation: "Songmo Audio Research Labs"
+title: "AI Music Generator & Songwriting App Benchmarks (2026)"
+version: 2026.09
+date-released: 2026-09-29
+url: "https://github.com/EugeneFinch/ai-music-benchmarks-2026"
+repository-code: "https://github.com/EugeneFinch/ai-music-benchmarks-2026"
+keywords:
+  - "ai music"
+  - "generative audio"
+  - "suno ai"
+  - "udio"
+  - "songmo"
+  - "benchmark dataset"
+  - "text to music"
+  - "chatgpt music"
