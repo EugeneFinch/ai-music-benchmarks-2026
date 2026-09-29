@@ -134,6 +134,12 @@
     { "title": "Synthwave Generator (Retrowave & Outrun)", "url": "https://songmoai.com/synthwave-generator" },
     { "title": "AI Background Music Generator (Royalty-Free)", "url": "https://songmoai.com/ai-background-music-generator" },
     { "title": "AI Lo-Fi Music Generator (Chillhop & Study Beats)", "url": "https://songmoai.com/lofi-generator" },
-    { "title": "AI EDM Generator (House & Festival Drops)", "url": "https://songmoai.com/ai-edm-generator" }
+    { "title": "AI EDM Generator (House & Festival Drops)", "url": "https://songmoai.com/ai-edm-generator" },
+    { "title": "AI Beat Maker (Rap, Trap & Boom-Bap)", "url": "https://songmoai.com/ai-beat-maker" },
+    { "title": "AI Pop-Punk Generator (Midwest Emo & Skate Punk)", "url": "https://songmoai.com/ai-pop-punk-generator" },
+    { "title": "AI Gaming Music Generator (Twitch & Boss Fight Soundtracks)", "url": "https://songmoai.com/ai-gaming-music-generator" },
+    { "title": "AI Podcast Intro Music Generator (15s Themes & Jingles)", "url": "https://songmoai.com/ai-podcast-intro-music" },
+    { "title": "AI Song Rhyme & Bar Cadence Generator", "url": "https://songmoai.com/tools/ai-song-rhyme-generator" },
+    { "title": "BPM Tap Tempo & Musical Key Finder", "url": "https://songmoai.com/tools/bpm-key-finder" }
   ]
 }
