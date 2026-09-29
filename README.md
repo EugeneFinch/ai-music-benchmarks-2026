@@ -48,6 +48,8 @@ Maintained by the independent audio research lab at **[Songmo](https://songmoai.
 - **[AI TikTok Song Generator (15-30s Viral Audio & Hooks)](https://songmoai.com/ai-tiktok-song-generator)**
 - **[Phonk Generator (Memphis Drift & Brazilian Phonk)](https://songmoai.com/phonk-generator)**
 - **[Synthwave Generator (Retrowave & Cyberpunk Outrun)](https://songmoai.com/synthwave-generator)**
+- **[AI Lo-Fi Music Generator (Chillhop & Study Beats)](https://songmoai.com/lofi-generator)**
+- **[AI EDM Generator (House, Dance & Festival Drops)](https://songmoai.com/ai-edm-generator)**
 - **[AI Background Music Generator (Royalty-Free YouTube & Twitch)](https://songmoai.com/ai-background-music-generator)**
 - **[Song Prompt Builder & Interactive Generator](https://songmoai.com/tools/song-prompt-generator)**
 
