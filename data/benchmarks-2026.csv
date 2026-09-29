@@ -1,0 +1,8 @@
+rank,platform,overall_score,input_complexity,generation_latency,vocal_quality,mobile_ux,monthly_price,free_tier,recipient_friction,url
+1,Songmo,9.5,1 plain sentence (Zero prompt engineering),~60s (2 takes),9.6 / 10,Native iOS App,Free / Credit packs,Free to start,Zero login required,https://songmoai.com
+2,Suno AI,9.3,Complex (Style tags & metatags),90-180s (1 take),9.5 / 10,Mobile Web,$10.00 / mo,50 credits/day,suno.com player,https://suno.com
+3,Udio,9.0,High (Style tags & chunk extensions),120-200s,9.4 / 10,Desktop Web only,$10.00 / mo,Limited,udio.com player,https://udio.com
+4,ElevenLabs Music,8.4,Moderate (Text prompt focus),~45s,9.7 / 10,API / Web,$5.00 - $22.00 / mo,Free credits,Dashboard export,https://elevenlabs.io
+5,Boomy,7.8,Low (Style presets),~30s,7.2 / 10,Mobile Web & App,$9.99 / mo,25 song saves,Boomy profile wall,https://boomy.com
+6,Soundraw,7.6,Low (Instrumental stems),~20s,N/A (Instrumental),Desktop Web,$16.99 / mo,Unlimited gen (paid dl),Dashboard export,https://soundraw.io
+7,Google MusicFX,7.2,Moderate (Interactive DJ loops),~15s,N/A (Loops only),Web Sandbox,Free,100% Free,Google login required,https://aitestkitchen.withgoogle.com
